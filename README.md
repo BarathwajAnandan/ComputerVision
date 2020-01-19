@@ -1,2 +1,1 @@
-# ComputerVision
-# ComputerVision
+# ComputerVision 16720-B course projects
